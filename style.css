@@ -1,0 +1,29 @@
+body {
+	background: black;
+	
+
+}
+
+h1,h2, p {
+	color: white;
+	font-family: monospace;
+}
+h2 {
+	font-size: 20px;
+}
+
+h1, h2 {
+	border-left:solid white 1px;
+	padding-left: 10px;
+}
+
+.box {
+	border: solid 2px white;
+	padding:0px 14px;
+	margin:0px 450px;
+}
+
+a {
+	margin-bottom: 25px;
+	background-color: white;
+}
