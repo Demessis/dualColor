@@ -1,6 +1,6 @@
 body {
 	background: black;
-	
+
 
 }
 
@@ -17,10 +17,9 @@ h1, h2 {
 	padding-left: 10px;
 }
 
-.box {
+.container {
 	border: solid 2px white;
-	padding:0px 14px;
-	margin:0px 450px;
+	
 }
 
 a {

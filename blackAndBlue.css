@@ -1,6 +1,6 @@
 body {
 	background: rgb(51, 51, 68);
-	
+
 
 }
 
@@ -17,10 +17,8 @@ h1, h2 {
 	padding-left: 10px;
 }
 
-.box {
+.container {
 	border: solid 2px rgb(204, 204, 187);
-	padding:0px 14px;
-	margin:0px 450px;
 }
 
 a {
